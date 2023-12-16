@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolioKarimaMaaoui/static/css/main.8fd5d1d7.css",
+    "main.js": "/portfolioKarimaMaaoui/static/js/main.a3dc78be.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolioKarimaMaaoui/static/js/787.7da95b79.chunk.js",
+    "static/media/profilephoto.jpg": "/portfolioKarimaMaaoui/static/media/profilephoto.d1af045e8cffea2ca6ca.jpg",
+    "static/media/pfe.jpg": "/portfolioKarimaMaaoui/static/media/pfe.0e8264db15f8459a62df.jpg",
+    "static/media/ilc.jpg": "/portfolioKarimaMaaoui/static/media/ilc.3509143851fed18f2684.jpg",
+    "static/media/tech.png": "/portfolioKarimaMaaoui/static/media/tech.b31cfcdee4b77a0c608a.png",
+    "static/media/its.jpg": "/portfolioKarimaMaaoui/static/media/its.914321a6ac41e17dba6f.jpg",
+    "static/media/coursera.jpg": "/portfolioKarimaMaaoui/static/media/coursera.3b985304d1071742dbcc.jpg",
+    "index.html": "/portfolioKarimaMaaoui/index.html",
+    "main.8fd5d1d7.css.map": "/portfolioKarimaMaaoui/static/css/main.8fd5d1d7.css.map",
+    "main.a3dc78be.js.map": "/portfolioKarimaMaaoui/static/js/main.a3dc78be.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolioKarimaMaaoui/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd5d1d7.css",
+    "static/js/main.a3dc78be.js"
+  ]
+}
